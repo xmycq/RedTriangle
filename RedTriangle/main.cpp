@@ -2,6 +2,7 @@
 
 #pragma comment(lib, "glew32.lib")
 // author:xmy
+// author:xmy
 
 const int NUM_POINTS = 3;
 
